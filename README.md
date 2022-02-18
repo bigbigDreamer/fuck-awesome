@@ -11,6 +11,8 @@
     <a href="https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md">提问的智慧</a>
     <a style="margin: 0 4px ">|</a>
     <a href="https://github.com/yifeikong/reverse-interview-zh">反问话集</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/Anduin2017/HowToCook">程序员做饭指南</a>
 </p>
 
 ## `TS`欢乐谷
