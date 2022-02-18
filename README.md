@@ -29,6 +29,8 @@
 
 <p>
     <a href="https://github.com/alibaba/lowcode-engine">阿里低代码引擎</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://garfish.top/guide">Garfish(头条)</a>
 </p>
 
 ## `CI`
@@ -42,7 +44,7 @@
 <p>
     <a href="https://github.com/benjycui/bisheng">毕升(markdown引擎)</a>
     <a style="margin: 0 4px ">|</a>
-    <a href="https://github.com/facebook/draft-js">Text Editor(富文本编辑器引擎)</a>
+    <a href="https://github.com/facebook/draft-js">draftJs(富文本编辑器引擎)</a>
     <a style="margin: 0 4px ">|</a>
     <a href="https://github.com/sapegin/mrm">MRM(配置工具创建引擎)</a>
     
