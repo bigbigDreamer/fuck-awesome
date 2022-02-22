@@ -2,6 +2,9 @@
 
 > 大抵是病了，我不知今日为何总是不能安稳入眠，昨日也是，近几日都是。
 
+
+![](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+
 <center >
     <h2>
         <a href="https://stateofjs.com/">State Of Js Every Year</a>
@@ -20,7 +23,7 @@
     <a href="https://github.com/Anduin2017/HowToCook">程序员做饭指南</a>
 </p>
 
-------
+![](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
 
 <p> 
     <a href="https://github.com/coder2gwy/coder2gwy">程序员考公指南</a>
@@ -30,6 +33,13 @@
     <a href="https://github.com/youngyangyang04/leetcode-master">LeetCode刷题攻略</a>
     <a style="margin: 0 4px ">|</a>    
     <a href="https://github.com/phodal/ledge">Ledge 知识平台</a>
+</p>
+
+
+![](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+
+<p>
+    <a href="https://github.com/jonschlinkert/maintainers-guide-to-staying-positive">Maintainer's Guide to Staying Positive</a>
 </p>
 
 ## 优秀博客导读
@@ -90,7 +100,8 @@
     <a href="https://github.com/antfu/unplugin-auto-import">AutoImport</a>
 </p>
 
------
+
+![](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
 
 <p>
     <a href="https://github.com/nock/nock">Nock(Node Mock Server)</a>
