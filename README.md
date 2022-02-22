@@ -23,7 +23,7 @@
     <a href="https://github.com/Anduin2017/HowToCook">程序员做饭指南</a>
 </p>
 
-<img height="8px" src="https://cdn.jsdelivr.net/gh/bigbigDreamer/pic-bed@main/uPic/LNrq05Mrpm.png"  />
+------
 
 <p> 
     <a href="https://github.com/coder2gwy/coder2gwy">程序员考公指南</a>
@@ -35,8 +35,7 @@
     <a href="https://github.com/phodal/ledge">Ledge 知识平台</a>
 </p>
 
-
-![](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+------
 
 <p>
     <a href="https://github.com/jonschlinkert/maintainers-guide-to-staying-positive">Maintainer's Guide to Staying Positive</a>
@@ -100,8 +99,7 @@
     <a href="https://github.com/antfu/unplugin-auto-import">AutoImport</a>
 </p>
 
-
-![](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
+-------
 
 <p>
     <a href="https://github.com/nock/nock">Nock(Node Mock Server)</a>
