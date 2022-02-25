@@ -61,6 +61,10 @@
     <a href="https://github.com/trpc/trpc">Trpc</a>
 </p>
 
+<p>
+    <a href="https://github.com/danvk/effective-typescript">Effective Typescript</a>
+</p>
+
 ## 单元测试
 
 <p>
