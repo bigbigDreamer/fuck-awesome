@@ -39,6 +39,8 @@
 
 <p>
     <a href="https://github.com/jonschlinkert/maintainers-guide-to-staying-positive">Maintainer's Guide to Staying Positive</a>
+    <a style="margin: 0 4px ">|</a> 
+    <a href="https://github.com/doodlewind/jshistory-cn">Js History</a>
 </p>
 
 ## 优秀博客导读
