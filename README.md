@@ -126,7 +126,7 @@
     <a href="https://github.com/mswjs/msw">Msw(Node&Browser Mock Server)</a>
 </p>
 
-## Beauty Github Profile Readme
+## Beautify Github Profile Readme
 
 <p>
     <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Awesome GitHub Profile README</a>
