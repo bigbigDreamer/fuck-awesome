@@ -11,7 +11,7 @@
     </h2>
 </center>
 
-## 必备软技能
+## 软技能
 
 <p> 
     <a href="https://github.com/geekcompany/ResumeSample">简历指导</a>
@@ -43,6 +43,8 @@
     <a href="https://github.com/doodlewind/jshistory-cn">Js History</a>
     <a style="margin: 0 4px ">|</a> 
     <a href="https://github.com/sorrycc/awesome-javascript">Awesome Javascript</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/ruanyf/document-style-guide">中文技术文档写作规范</a>
 </p>
 
 ## 算法与数据结构
