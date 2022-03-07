@@ -53,6 +53,8 @@
     <a href="https://github.com/FrontEndGitHub/FrontEndGitHub">FrontEndGitHub</a>
     <a style="margin: 0 4px ">|</a>
     <a href="https://github.com/zkqiang/hangzhou-house-guide">杭州购房指南</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/squidfunk/mkdocs-material">高效的技术文档</a>
 </p>
 
 ## 算法与数据结构
