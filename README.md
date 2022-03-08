@@ -55,7 +55,11 @@
     <a href="https://github.com/zkqiang/hangzhou-house-guide">杭州购房指南</a>
     <a style="margin: 0 4px ">|</a>
     <a href="https://github.com/squidfunk/mkdocs-material">高效的技术文档</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/jaywcjlove/awesome-mac">AwesomeMac</a>
 </p>
+
+----
 
 ## 算法与数据结构
 
@@ -126,6 +130,8 @@
 
 <p>
     <a href="https://github.com/snabbdom/snabbdom">Snabbdom</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/aidenybai/million">million</a>
 </p>
 
 ## Data Mock
@@ -154,6 +160,16 @@
 
 <p>
     <a href="https://github.com/justjavac/awesome-wechat-weapp">Awesome-WeChat-WeApp</a>
+</p>
+
+## React State Manage
+
+<p>
+    <a href="https://github.com/facebookexperimental/Recoil">recoil</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/statelyai/xstate">xstate</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/pmndrs/zustand">zustand</a>
 </p>
 
 ## 周边
