@@ -61,6 +61,16 @@
 
 ----
 
+<p>
+    <a href="https://github.com/xdite/learn-hack">打造超人学习</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/xdite/mind-hack">打造超人思维</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/xdite/memory-hack">打造超人大脑</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/xdite/speed-writing">极速写作输出</a>
+</p>
+
 ## 算法与数据结构
 
 <p>
