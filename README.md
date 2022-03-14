@@ -71,6 +71,12 @@
     <a href="https://github.com/xdite/speed-writing">极速写作输出</a>
 </p>
 
+---- 
+
+<p>
+    
+</p>
+
 ## 算法与数据结构
 
 <p>
@@ -212,6 +218,14 @@
     <a href="https://github.com/GoogleChrome/workbox">WorkBox(Service Worker)</a>
     <a style="margin: 0 4px ">|</a>
     <a href="https://github.com/bvm/bvm">bvm</a>
+</p>
+
+## 一些有意思但不实用的库
+
+<p>
+    <a href="https://github.com/aemkei/jsfuck">JsFuck</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/GitSquared/edex-ui">EdexUI</a>
 </p>
 
 
