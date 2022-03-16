@@ -74,7 +74,7 @@
 ---- 
 
 <p>
-    
+    <a href="https://github.com/myNameIsDu/front-end-weekly">前端周报</a>(By <a href="https://github.com/myNameIsDu">度</a>)
 </p>
 
 ## 算法与数据结构
