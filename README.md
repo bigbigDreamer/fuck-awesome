@@ -75,6 +75,8 @@
 
 <p>
     <a href="https://github.com/myNameIsDu/front-end-weekly">前端周报</a>(By <a href="https://github.com/myNameIsDu">度</a>)
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://leetcode-solution-leetcode-pp.gitbook.io/mz-ri-yi-jm/">每日快报</a>
 </p>
 
 ## 算法与数据结构
