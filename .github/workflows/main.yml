@@ -23,6 +23,7 @@ jobs:
           subject:  (${{env.REPORT_DATE}})
           html_body: |
             <!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1"><meta http-equiv="X-UA-Compatible" content="ie=edge"><title>Document</title></head><body style="background: #fafafa;"><div class="email-body" style="width: 70%; height: 600px; position: absolute; top: 0; bottom: 0; left: 0; right: 0; margin: 24px auto; padding: 24px; background: #fff; border-radius: 8px; color: #fff; background: url(https://pic.netbian.com/uploads/allimg/220304/225209-1646405529f187.jpg) no-repeat;"><div class="wrapper" style="width: 100%; height: inherit;"><div class="content"><h3>Hi guys!</h3><p style="text-indent:2em">您在 github 关注的${{github.repository}}仓库更新了～</p><div style="padding-left:24px;margin-top:24px"><ul><li style="margin-bottom:16px">Commit Message: ${{github.event.head_commit.message}}</li><li>Date: ${{env.REPORT_DATE}}</li></ul></div><p style="text-align:right;padding-right:50px;margin-top:80px"><a href="https://github.com/bigbigDreamer/fuck-awesome" style="color: #fff;">View it on github </a></p><br><br><br><br><hr style="width:60%;margin:24px auto;color:#fafafa"><p style="text-align:right">书生祝好～</p></div></div></div></body></html>
-          to: jadeface.scholar@gmail.com,1652089500@qq.com
+          to: jadeface.scholar@gmail.com
           from: Fuck-Awesome
+          cc: 1652089500@qq.com
           content_type: text/html
