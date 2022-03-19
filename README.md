@@ -228,6 +228,10 @@
     <a href="https://github.com/aemkei/jsfuck">JsFuck</a>
     <a style="margin: 0 4px ">|</a>
     <a href="https://github.com/GitSquared/edex-ui">EdexUI</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/fingerprintjs/blog-nojs-fingerprint-demo">No-JavaScript-Fingerprinting</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/cristianbote/goober">Goober</a>
 </p>
 
 
