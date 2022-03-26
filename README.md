@@ -115,6 +115,8 @@
     <a href="https://github.com/yangyubo/zh-unit-testing-guidelines">单元测试准则</a>
     <a style="margin: 0 4px ">|</a>
     <a href="https://github.com/avajs/ava">AvA</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/karma-runner/karma">Karma(测试Runner)</a>
 </p>
 
 ## 低代码
