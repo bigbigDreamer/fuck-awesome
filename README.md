@@ -5,11 +5,11 @@
 
 ![](https://cloud.githubusercontent.com/assets/383994/19832229/f6b5922c-9deb-11e6-9cc5-fa09032bf8ef.png)
 
-<center >
-    <h2>
+<h2>
+    <center >
         <a href="https://stateofjs.com/">State Of Js Every Year</a>
-    </h2>
-</center>
+    </center>
+</h2>
 
 ## 软技能
 
