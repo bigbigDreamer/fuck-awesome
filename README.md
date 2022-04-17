@@ -235,5 +235,11 @@
     <a href="https://github.com/cristianbote/goober">Goober</a>
 </p>
 
+## 一些有意思但很实用的库
+
+<p>
+    <a href="https://github.com/omichelsen/compare-versions">CompareVersion</a>
+</p>
+
 
 
