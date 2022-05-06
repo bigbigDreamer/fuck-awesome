@@ -239,6 +239,12 @@
 
 <p>
     <a href="https://github.com/omichelsen/compare-versions">CompareVersion</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/pinojs/pino">pino（一个JSON log 库）</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/moxystudio/node-cross-spawn">spawn的跨平台解决方案</a>
+    <a style="margin: 0 4px ">|</a>
+    <a href="https://github.com/shuding/tilg">tilg Debug React Hooks</a>
 </p>
 
 
